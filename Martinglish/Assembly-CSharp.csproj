@@ -61,6 +61,11 @@
     <Compile Include="Assets\Scripts\Parallax.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Recursos\Free Pixel Art Hills\contact.txt" />
+    <None Include="Assets\Recursos\Free Pixel Art Hills\Lisense.txt" />
+    <None Include="Assets\Recursos\Free Pixel Art Hills\readme.txt" />
+  </ItemGroup>
+  <ItemGroup>
     <Reference Include="UnityEngine">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.10f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
