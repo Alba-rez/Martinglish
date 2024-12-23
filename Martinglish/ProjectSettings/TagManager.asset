@@ -44,3 +44,9 @@ TagManager:
   - name: Parallax
     uniqueID: 1686196385
     locked: 0
+  - name: Terrain
+    uniqueID: 1439987993
+    locked: 0
+  - name: Platform
+    uniqueID: 3405024385
+    locked: 0
