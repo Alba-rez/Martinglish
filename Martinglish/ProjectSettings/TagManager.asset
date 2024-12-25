@@ -3,18 +3,23 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Traps
+  - Terrain
+  - Platforms
+  - Cave
+  - Dead
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
+  - Terrain
+  - Platforms
+  - Traps
+  - Cave
   - 
   - 
   - 
@@ -44,9 +49,18 @@ TagManager:
   - name: Parallax
     uniqueID: 1686196385
     locked: 0
+  - name: Cave
+    uniqueID: 631624669
+    locked: 0
+  - name: Dead
+    uniqueID: 1152996789
+    locked: 0
   - name: Terrain
     uniqueID: 1439987993
     locked: 0
   - name: Platform
     uniqueID: 3405024385
+    locked: 0
+  - name: Traps
+    uniqueID: 311770049
     locked: 0
